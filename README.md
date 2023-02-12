@@ -4,7 +4,7 @@ An interactive, multi-leveled story based videogame built using Spyder Compiler 
 The goal of this project is to create, market, and sell a themed videogame to a group of investors.  I presented this project to a panel of judges who graded our code base, presentation skills, storyline, and group cohesion.
 
 --------------------------------------------------------------
-                     GRADE RECIEVED: A
+GRADE RECIEVED: A
 --------------------------------------------------------------
 
 Concepts used to create this game include:
